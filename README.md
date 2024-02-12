@@ -9,3 +9,9 @@ git clone https://github.com/Moiz-Afzal/mlops_class_task_1_20i-2334_and_20i-0590
 git branch dev
 git branch test
 git branch master
+
+## git command for pushing code into main
+
+git add .
+git commit -m "Adding Branches"
+git push origin main
